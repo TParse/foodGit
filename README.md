@@ -1,1 +1,2 @@
-# Food - GitHub Teamwork Activity
+# foodGit
+Very basic GitHub example for class
